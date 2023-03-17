@@ -6,6 +6,11 @@
 ## About me:
 Hi, I'm Mark
 
+## Find me on:
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/marek-dr%C4%85g-822137268/)
+
+
 ## Skills:
 
 #### Languages and framework:
@@ -30,11 +35,6 @@ Hi, I'm Mark
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="40" height="40"/>&nbsp;
-
-
-## Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/marek-dr%C4%85g-822137268/)
 
 
 
