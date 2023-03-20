@@ -4,7 +4,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
 ## About me:
-Hi, I'm Mark
+Hi, I am Mark. I am a beginner Python Backend Developer with a passion for creating web and backend applications. Currently, I am learning various tools and frameworks such as Django and MySQL. I am open to learning and developing my programming skills by working on interesting projects and utilizing industry best practices.
 
 ## Find me on:
 
