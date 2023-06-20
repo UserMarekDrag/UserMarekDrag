@@ -1,10 +1,9 @@
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello!</h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
 ## About me:
-Hi, I am Mark. I am a beginner Python Backend Developer with a passion for creating web and backend applications. Currently, I am learning various tools and frameworks such as Django and MySQL. I am open to learning and developing my programming skills by working on interesting projects and utilizing industry best practices. I am currently learning Javascript, React and FastAPI.
+I am Mark. I am a beginner Python Backend Developer with a passion for creating web and backend applications. Currently, I am learning various tools and frameworks such as Django and PostgreSQL. I am open to learning and developing my programming skills by working on interesting projects and utilizing industry best practices. I am currently learning React and DRF.
 
 ## Find me on:
 
@@ -20,6 +19,7 @@ Hi, I am Mark. I am a beginner Python Backend Developer with a passion for creat
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="JS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
 #### Database
 
